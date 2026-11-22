@@ -1,0 +1,10 @@
+{
+  "versionCode": 37,
+  "versionName": "6.0",
+  "tested": true,
+  "publishedAt": "2026-11-22T04:28:00+08:00",
+  "notes": "蔚蓝助手 v6.0\n- 新增自动更新检查\n- 新增更新实测门禁\n- 新增版本更新入口",
+  "apkUrl": "https://github.com/sensei-shittim/blue-assistant/releases/download/v6.0/blue-assistant.apk",
+  "sha256": "",
+  "size": 0
+}
